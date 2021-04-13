@@ -1,0 +1,2 @@
+export const FILTER_CLASS_NAME = 'FILTER_CLASS_NAME';
+export const FILTER_CLASS_ID = 'FILTER_CLASS_ID';
